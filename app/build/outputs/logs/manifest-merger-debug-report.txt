@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:4:5-54
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:6:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rohan\.android\build-cache\7b5d8a0f8f9534371a8508a319cabbb79cc55d9e\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rohan\.android\build-cache\2478d5c90e37db5795a36a4d928f12e883d853bf\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rohan\.android\build-cache\c3b23df37707445c61e9a6461f67b0fc87e0cfff\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rohan\.android\build-cache\c3f1e6ece0165fd193963037d34b5be0806865d4\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rohan\.android\build-cache\cf26ae78c6a1b47640213a1f92119178dadd2135\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rohan\.android\build-cache\43455b05bf2bb5e1857ecd10eca164132f068649\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rohan\.android\build-cache\0027d4b7fc7f182041df86bb51c09c0e2a789e1d\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rohan\.android\build-cache\407b419a561d1803d348e793aaea9b8fcb20a20d\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rohan\.android\build-cache\981fc7114fcdc85a5e5d6b0ec8fd84beda4fb630\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rohan\.android\build-cache\c3a179ad578417ed8e9eef3123ecf5d2e5762520\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rohan\.android\build-cache\639f0b504d843d56c47f83147eabb8eeebe85056\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.a10010246.passwordprotector.MainActivity
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:17:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:authorities
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:22:13-67
+	android:grantUriPermissions
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:24:13-47
+	android:exported
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:21:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:25:13-27:64
+	android:resource
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:27:17-51
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:26:17-67
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:31:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:32:5-65
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:32:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:33:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml:34:19-57
+uses-sdk
+INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rohan\.android\build-cache\7b5d8a0f8f9534371a8508a319cabbb79cc55d9e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rohan\.android\build-cache\2478d5c90e37db5795a36a4d928f12e883d853bf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rohan\.android\build-cache\c3b23df37707445c61e9a6461f67b0fc87e0cfff\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rohan\.android\build-cache\c3f1e6ece0165fd193963037d34b5be0806865d4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rohan\.android\build-cache\cf26ae78c6a1b47640213a1f92119178dadd2135\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rohan\.android\build-cache\43455b05bf2bb5e1857ecd10eca164132f068649\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rohan\.android\build-cache\0027d4b7fc7f182041df86bb51c09c0e2a789e1d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rohan\.android\build-cache\407b419a561d1803d348e793aaea9b8fcb20a20d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rohan\.android\build-cache\981fc7114fcdc85a5e5d6b0ec8fd84beda4fb630\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rohan\.android\build-cache\c3a179ad578417ed8e9eef3123ecf5d2e5762520\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rohan\.android\build-cache\639f0b504d843d56c47f83147eabb8eeebe85056\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.microsoft.projectoxford:face:1.4.3] C:\Users\rohan\.android\build-cache\6b0a564e7d26c581482fd4cae197f3e304817353\output\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rohan\.android\build-cache\7b5d8a0f8f9534371a8508a319cabbb79cc55d9e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rohan\AndroidStudioProjects\PasswordProtector\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rohan\.android\build-cache\7b5d8a0f8f9534371a8508a319cabbb79cc55d9e\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rohan\.android\build-cache\2478d5c90e37db5795a36a4d928f12e883d853bf\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rohan\.android\build-cache\c3b23df37707445c61e9a6461f67b0fc87e0cfff\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rohan\.android\build-cache\c3f1e6ece0165fd193963037d34b5be0806865d4\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rohan\.android\build-cache\cf26ae78c6a1b47640213a1f92119178dadd2135\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rohan\.android\build-cache\43455b05bf2bb5e1857ecd10eca164132f068649\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rohan\.android\build-cache\0027d4b7fc7f182041df86bb51c09c0e2a789e1d\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rohan\.android\build-cache\407b419a561d1803d348e793aaea9b8fcb20a20d\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rohan\.android\build-cache\981fc7114fcdc85a5e5d6b0ec8fd84beda4fb630\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rohan\.android\build-cache\7b5d8a0f8f9534371a8508a319cabbb79cc55d9e\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rohan\.android\build-cache\7b5d8a0f8f9534371a8508a319cabbb79cc55d9e\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rohan\.android\build-cache\c3a179ad578417ed8e9eef3123ecf5d2e5762520\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rohan\.android\build-cache\c3a179ad578417ed8e9eef3123ecf5d2e5762520\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rohan\.android\build-cache\c3a179ad578417ed8e9eef3123ecf5d2e5762520\output\AndroidManifest.xml:26:13-58

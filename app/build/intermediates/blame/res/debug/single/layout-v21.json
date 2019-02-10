@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\rohan\\AndroidStudioProjects\\PasswordProtector\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\rohan\\.android\\build-cache\\981fc7114fcdc85a5e5d6b0ec8fd84beda4fb630\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\AndroidStudioProjects\\PasswordProtector\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\rohan\\.android\\build-cache\\981fc7114fcdc85a5e5d6b0ec8fd84beda4fb630\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\AndroidStudioProjects\\PasswordProtector\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\rohan\\.android\\build-cache\\981fc7114fcdc85a5e5d6b0ec8fd84beda4fb630\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\AndroidStudioProjects\\PasswordProtector\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\rohan\\.android\\build-cache\\981fc7114fcdc85a5e5d6b0ec8fd84beda4fb630\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
